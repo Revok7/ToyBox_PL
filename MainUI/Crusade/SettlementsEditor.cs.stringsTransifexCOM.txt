@@ -1,0 +1,10 @@
+<20:1>Musisz odblokować krucjatę, zanim uzyskasz dostęp do tych zabawek.
+<23:1>Ustawy
+<27:1>Nie ma
+<27:3> - proszę o postępy w dalszej części gry
+<28:1>Ignoruj restrykcje budowlane
+<31:1>Ignoruj ograniczenia klas graczy
+<32:1>Ignoruj ograniczenia dotyczące sąsiedztwa budynków
+<46:1>Buildings: {buildings.Count()}
+<55:1>Zakończ
+<61:1>\n

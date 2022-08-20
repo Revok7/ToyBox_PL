@@ -1,0 +1,103 @@
+<50:1>
+<51:1>
+<55:1>Wszystko
+<57:1>
+<60:1>Wszystko
+<61:1>Wszystko
+<62:1>Wszystko
+<63:1>Fakty
+<64:1>Funkcje
+<65:1>Właściwości parametrów
+<66:1>Wybór funkcji
+<67:1>Klasy
+<67:3>Standard
+<68:1>Arcane
+<69:1>Boska
+<70:1>Mityczny
+<71:1>Wyższa mityczna
+<72:1>Standard
+<73:1>Progresja
+<74:1>Typ Archetypów
+<75:1>Umiejętności
+<76:1>Czary
+<77:1>Rozdział umiejętności
+<78:1>Księgi zaklęć
+<79:1>Klasy SB
+<80:1>Bufory
+<81:1>Item
+<85:1>Equipment
+<85:3>{bp.Cost.ToBinString(
+<85:5>.yellow())}
+<86:1>Equip (rarity)
+<87:1>Broń
+<90:1>{bp.Cost.ToBinString(
+<90:3>.yellow())}
+<91:1>{bp.Cost.ToBinString(
+<91:3>.yellow())}
+<92:1>?
+<92:3>{bp.Cost.ToBinString(
+<92:5>.yellow())}
+<94:1>Armor
+<96:1>{bp.Cost.ToBinString(
+<96:3>.yellow())}
+<97:1>?
+<97:3>{bp.Cost.ToBinString(
+<97:5>.yellow())}
+<99:1>Usable
+<99:3>{bp.Cost.ToBinString(
+<99:5>.yellow())}
+<100:1>Ingredient
+<101:1>Jednostki
+<101:3>?
+<101:5>CR{bp.CR}
+<102:1>Jednostki CR
+<102:3>CR {bp.CR}
+<103:1>Rasy
+<104:1>Obszary
+<105:1>części obszaru
+<106:1>Wejście do obszaru
+<107:1>Wejście do obszaru 
+<108:1>Punkty mapy
+<109:1>Mapa globalna
+<110:1>Sceny cięcia
+<111:1>Mityczne informacje
+<112:1>Pytania
+<113:1>QuestObj
+<114:1>Etudy
+<114:3>
+<115:1>Flagi
+<116:1>Dialog
+<117:1>Cues
+<121:1>-
+<123:1>Answer
+<124:1>Wybór funkcji
+<125:1>Armia
+<126:1>Generał armii - umiejętność
+<128:1>Equip (wyposażenie)
+<135:1>0
+<138:1>Wyposażenie (koszt)
+<140:1>W pamięci
+<173:1>{currentPage} / {pageCount} count: {count} => offset: {offset} limit: {limit} 
+<204:1>
+<233:1>All
+<279:1>Kategorie
+<302:1>searhText
+<307:1>Limit
+<311:1>searchLimit
+<317:1>Opisy wyszukiwań
+<319:1>Atrybuty
+<321:1>Pokaż identyfikatory GUID
+<323:1>Komponenty
+<325:1>Pokaż nazwy wyświetlane i wewnętrzne
+<329:1>Szukaj
+<334:1>Proszę pamiętać, że pierwsze wyszukiwanie może potrwać kilka sekund.
+<337:1>Pasuje: 
+<337:3>{matchCount}
+<338:1> => 
+<338:3>{settings.searchLimit}
+<342:1>Strona: 
+<342:3>{Math.Min(currentPage + 1, pageCount + 1)}
+<342:5> / 
+<342:7>{pageCount + 1}
+<343:1>-
+<347:1>+

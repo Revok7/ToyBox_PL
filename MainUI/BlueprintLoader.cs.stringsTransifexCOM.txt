@@ -1,0 +1,13 @@
+<40:1>ce0842546b73aa34b8fcf40a970ede68
+<40:3>2e3280bf21ec832418f51bee5136ec7a
+<40:5>b60252a8ae028ba498340199f48ead67
+<40:7>fb379e61500421143b52c739823b4082
+<62:1>Ładowanie {total} Blueprintów
+<71:1>nie można załadować GUID: {entry.Key}
+<85:1>załadowano {_blueprintsInProcess.Count} blueprints w ciągu {watch.ElapsedMilliseconds} milisekund.
+<113:1>wywołanie BlueprintLoader.Load
+<117:1>sukces uzyskał {bps.Count()} bluerintów
+<141:1>s_BlueprintsBundle
+<142:1>got bundle {bundle}
+<148:1>created request {LoadRequest}
+<150:1>zrealizowano żądanie i wywołanie zakończenia - {LoadRequest.allAssets.Length} Assets 

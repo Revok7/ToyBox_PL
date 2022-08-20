@@ -1,0 +1,89 @@
+<14:1>Tworzenie postaci
+<15:1>Punkty Budowy (Główne)
+<15:3>
+<16:1>Punkty Budowy (Najemnik)
+<16:3>
+<17:1>Maksymalne zdolności
+<17:3>
+<18:1>Możliwość min.
+<18:3>
+<20:1>Wszystkie opcje wyglądu
+<22:1>Możliwość wyboru wszystkich opcji wyglądu z dowolnej rasy
+<27:1>Mityczne ścieżki
+<28:1>Ostrzeżenie! Używanie ich może w jakiś sposób uszkodzić twoją grę. Zalecane do eksperymentalnego majstrowania, jak wypróbowywanie różnych buildów, a nie do faktycznej gry.
+<29:1>Odblokowanie Aeona
+<30:1>Odblokowanie Azata
+<31:1>Unlock Trickster
+<32:1>Zablokuj Licha
+<33:1>Unlock Rój
+<33:3>Dostępne tylko na poziomie Mythic 8 lub wyższym
+<34:1>Unlock Złoty Smok
+<34:3>Dostępne tylko na poziomie Mythic 8 lub wyższym
+<36:1>Wszystkie mityczne ścieżki
+<38:1>Odblokowanie ścieżek mitycznych oprócz Legendy i Diabła, które blokują progresję
+<40:1>
+<41:1>Odblokowanie Diabła
+<41:3>Nie pozwala na awansowanie w Aeonie lub Azacie
+<42:1>Odblokowanie Legendy
+<42:3>Zapobiega awansowaniu na wszystkie inne ścieżki mityczne
+<46:1>Utwórz i zwiększ poziom
+<48:1>Mnożnik wyboru cech
+<48:3>
+<50:1>To pozwala ci wybrać daną cechę więcej niż raz na poziomie.
+<52:1>Zastosuj mnożnik wyboru cech do członków partii
+<54:1>Zezwolenie na wybór wielu archetypów podczas wybierania nowej klasy
+<56:1>To pozwala na wybór kombinacji archetypów przy pierwszym wyborze klasy, która zawiera różne księgi zaklęć.
+<58:1>Włącz "Next", gdy nie ma możliwości wyboru feat.
+<59:1>Uczyń wszystkie wybory cech opcjonalnymi
+<61:1>Ignoruj Cap atrybutów
+<63:1>Ignoruj pozostałe punkty atrybutów
+<66:1>Ignoruj limit umiejętności
+<68:1>Igniesz pozostałych punktów umiejętności
+<70:1>Zawsze możliwość podniesienia poziomu
+<71:1>Dodaj pełną wartość matrycy trafienia
+<73:1>Ignoruj ograniczenia klasowe
+<75:1>Eksperymentalny
+<75:3>: oprócz regularnego levelowania, pozwala ci to wybrać dowolną klasę mityczną za każdym razem, gdy levelujesz, zaczynając od poziomu 1. Może to przynieść ciekawe i niespodziewane efekty. Backup wcześnie i często...
+<78:1>Ignoruj ograniczenia Feat
+<80:1>Experimental
+<80:3>: pozwala wybrać dowolny feat ignorując warunki wstępne.
+<82:1>Pozwolenie towarzyszom na podjęcie klas mitycznych
+<83:1>Zezwól zwierzętom domowym na podjęcie klas mitycznych
+<84:1>Ignoruj warunki wstępne przy wyborze umiejętności
+<85:1>Zignoruj ograniczenia typu i poziomu zaklęcia.
+<86:1>Ignoruj zakazane archetypy
+<87:1>Ignoruj wymagane wartości statystyk
+<88:1>Ignoruj wymagane poziomy klas
+<89:1>Zignoruj wyrównanie przy wyborze klasy
+<90:1>Zignoruj cechy wstępne (jak rasa) przy wyborze klasy
+<92:1>Zignoruj ograniczenia księgi zaklęć przy wyborze zaklęć
+<95:1>Szybki wybór zaklęć
+<97:1>Zablokuj poziom postaci
+<98:1>Ignoruj ograniczenia wyrównania
+<102:1>Zignoruj wymagania dotyczące umiejętności przy wyborze klasy
+<103:1>Ignoruj wymagania dotyczące umiejętności (lista) przy wyborze klasy
+<105:1>Usuniecie limitu poziomu mistrza 20
+<106:1>Poziom strony 40 (stały wzrost po 20)
+<107:1>Party Level Cap 24 (gwałtowny wzrost)
+<113:1>Multiple Classes
+<114:1>Podgląd eksperymentalny
+<116:1>Wielość klas na Level-Up
+<119:1>Eksperymentalny - Z włączoną tą opcją możesz skonfigurować postacie w Party Editorze, aby zdobywały poziomy w dodatkowych klasach przy każdym levelu. Zobacz link, aby uzyskać więcej informacji na temat tego wariantu kampanii.
+<120:1>Postacie Gestalt
+<120:3>https://www.d20srd.org/srd/variant/classes/gestaltCharacters.htm
+<125:1>Przyrost punktów trafień (Hit Die)
+<128:1>Podstawowy wzrost ataku Pr
+<131:1>Rośnięcie rzutu ratunkowego
+<134:1>Przyrost punktów umiejętności
+<137:1>Użyj przeliczania poziomów mistrzowskich
+<138:1>Zmniejsz poziom mistrza do aktualnego
+<139:1>Zmniejsz CL do aktualnego (temp) 
+<140:1>Zmniejsz poziom klasy dla warunków wstępnych do poziomu mistrza
+<141:1>Naprawa HP ulubionej klasy
+<142:1>Zawsze otrzymuj HP klasy uprzywilejowanej
+<143:1>Zawsze otrzymuj ulubioną klasę HP z wyjątkiem Prestiżu
+<151:1>Wybór klasy
+<158:1>Char Gen
+
+*** Przetłumaczono za pomocą www.DeepL.com/Translator (wersja darmowa) ***
+

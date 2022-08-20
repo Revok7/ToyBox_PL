@@ -1,0 +1,28 @@
+<57:1>mythicInfo: {info} {etudeGUID} {etudeBp}
+<64:1>d85f7367b453b7b468b77e5e708297ae
+<68:1>e6669aad304206c4d969f6602e6b412e
+<73:1>d85f7367b453b7b468b77e5e708297ae
+<77:1>e6669aad304206c4d969f6602e6b412e
+<81:1>8f2f0ea65ef3a3f48948d27a39b37db1
+<85:1>f6dce66b61f98eb4dbe6388e16b1de11
+<89:1>2943a647eb4017c49b4c121b15841d07
+<90:1>230552776ff941e1b054596bf589f9a9
+<94:1>26028ff893925ef44aa1179906ac9265
+<98:1>6248db4784b301945b67b52143386b55
+<99:1>544443943d917e14ca72583d0357d4ad
+<103:1>067212d277e846a4f9ff96aee6138f0b
+<170:1>{ch.CharacterName} - {item.Name} - {item.IsIdentified}
+<202:1>znaleziono zaklęcie {ability.Name} w {learnable.Count()} zaklęciach poziomu {level}
+<222:1>adding spell: {ability.Name}
+<226:1>sprawdzenie {spellbook.Blueprint.Name} maxLevel: {maxLevel}
+<230:1>FOUND
+<230:3>nie udało się znaleźć
+<231:1>{allowText} zaklęcie {ability.Name} w {learnable.Count()} zaklęciach poziomu {level}
+<233:1>spell level = {level}
+<273:1>: 
+<273:3> | 
+<276:1>: 
+<298:1>Wybierz armię z liderem!
+<308:1>Wybierz armię z liderem!
+<318:1>Wybierz armię z liderem!
+<346:1>Mózg.

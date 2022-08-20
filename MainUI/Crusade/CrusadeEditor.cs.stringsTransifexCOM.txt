@@ -1,0 +1,73 @@
+<22:1>Przed uzyskaniem dostępu do tych zabawek musisz odblokować krucjatę.
+<26:1>Morale
+<28:1>Flagi zawsze zielone
+<33:1>Morale
+<33:3>
+<38:1>Maksymalne morale
+<38:3>
+<43:1>Min Morale
+<43:3>
+<49:1>Królestwo
+<51:1>zwiększenie
+<54:1>Doświadczenie
+<61:1>Statystyka królestwa
+<62:1>Rank
+<63:1>Doświadczenie
+<64:1>Następna ranga
+<77:1>Zdobądź {settings.increment}
+<80:1>Stracić {settings.increment}
+<86:1>Modyfikatory kosztów
+<86:3>Wszystkie poniższe modyfikatory działają na 
+<86:5>koszt = koszt (1 + modyfikator) 
+<86:7>tak więc wartość 
+<86:9>-1
+<86:11> oznacza, że koszt jest darmowy, 
+<86:13>0
+<86:15> to normalny koszt, a 
+<86:17>2
+<86:19> zwiększa go 3x.
+<87:1>Modyfikator kosztu roszczenia
+<88:1>Modyfikator czasu reklamacji
+<89:1>Modyfikator czasu regeneracji
+<90:1>Modyfikator czasu budowy
+<92:1>Przypadkowe spotkania
+<92:3>Wszystkie poniższe modyfikatory działają na 
+<92:5>szansa = szansa (1 + modyfikator) 
+<92:7>więc wartość 
+<92:9>-1
+<92:11> oznacza, że szansa wynosi 0, 
+<92:13>0
+<92:15> to koszt szansy, a 
+<92:17>2
+<92:19> zwiększa ją 3x
+<93:1>% Szansa (Nieodebrane)
+<94:1>% Szansa (odebrany)
+<95:1>% Szansa (Upgraded)
+<97:1>Zaufanie (Royal Court)
+<98:1>Zaufanie (Szlachta)
+<99:1>Zwycięstwa w tym tygodniu
+<100:1>Niepokój
+<101:1>Zgodność
+<108:1>Finanse królestwa
+<112:1>Finanse
+<114:1>Zyskaj {settings.increment}
+<117:1>Stracić {settings.increment}
+<122:1>Materiały
+<124:1>Zyskaj {settings.increment}
+<127:1>Lose {settings.increment}
+<132:1>Korzyści
+<134:1>Zyskaj {settings.increment}
+<137:1>Stracić {settings.increment}
+<147:1>Istniejące wydarzenia
+<148:1>Ignoruj ograniczenia rozwiązań zdarzeń
+<151:1>Mnożnik czasu rozdzielczości karty krucjaty
+<151:3>
+<153:1>Mnoży czas rozwiązywania kart krucjaty o (1 + modyfikator). -1 sprawi, że wszystko będzie tak szybkie, jak to możliwe (minimum 1 dzień, aby uniknąć ewentualnych błędów)
+<156:1>Modyfikator czasu budowy
+<156:3>
+<162:1>Mnoży czas budowy przez (1 + modyfikator). -1 sprawi, że nowe budynki będą natychmiastowe.
+<172:1>Data
+<174:1>+1 dzień
+<175:1>+1 miesiąc
+<179:1>Obecny dzień
+<180:1>Obecna tura

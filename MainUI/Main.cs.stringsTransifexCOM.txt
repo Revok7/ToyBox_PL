@@ -1,0 +1,43 @@
+<26:1>Respec
+<41:1>resetRequested - {resetRequestTime}
+<100:1>
+<117:1>ToyBox ma ograniczoną funkcjonalność z menu głównego
+<120:1>Nota 
+<120:3>ToyBox został zaprojektowany, aby zapewnić najlepsze wrażenia użytkownika przy szerokości 1920 lub wyższej. Proszę rozważyć zwiększenie rozdzielczości do co najmniej 1920x1080 (najlepiej 4k) i przejść do zakładki Unity Mod Manager 'Settings' aby zmienić szerokość okna moda na co najmniej 1920.  Zwiększenie skali UI jest również miłe przy pracy w 4k.
+<127:1>ERROR
+<127:3>: złapany wyjątek {caughtException}
+<128:1>Reset
+<133:1>Sugestie lub problemy kliknij 
+<134:1>tutaj
+<134:3>https://github.com/cabarius/ToyBox/issues
+<136:1>Czat z autorami, Narrią i innymi na stronie 
+<137:1>WoTR Discord
+<137:3>https://discord.gg/wotr
+<143:1>Blueprints
+<143:3> loading: 
+<143:5>P2
+<147:1>Worek sztuczek
+<148:1>Level Up
+<149:1>Party
+<150:1>Loot
+<151:1>Zaklęcie
+<153:1>Playground
+<155:1>Search 'n Pick
+<156:1>Crusade
+<157:1>Armia
+<158:1>Wydarzenia/Dekrety
+<159:1>Etudy
+<160:1>Pytania
+<161:1>Ustawy
+<165:1>{e}
+<203:1>timeSinceRequest - {timeSinceRequest}
+<205:1>resetExecuted - {timeSinceRequest}
+<218:1>canvas: {canvas}
+<219:1>HUDLayout.
+<220:1>hudLayout: {hudLayout}
+<221:1>Console_InitiativeTrackerHorizontalPC
+<222:1> initiaveTracker: {initiaveTracker}
+<238:1>TeleportParty.
+<241:1>TeleportMain
+<243:1>TeleportSelected
+<245:1>TeleportParty

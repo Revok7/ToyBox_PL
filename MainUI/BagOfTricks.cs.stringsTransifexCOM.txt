@@ -1,0 +1,288 @@
+<24:1>Rest All
+<25:1>Rest Selected
+<26:1>Umocniony
+<27:1>Powszechne bufy
+<28:1>Buff Like A Goddess
+<29:1>Usuń wzmocnienia
+<30:1>Remove Deaths Door
+<31:1>Zabij wszystkich wrogów
+<32:1>Przywołaj Zoo
+<33:1>Lobotomizuj wrogów
+<36:1>Teleportuj stronę do siebie
+<37:1>Przejdź do globalnej mapy
+<38:1>Przywróć percepcję
+<39:1>Resetuj elementy interaktywne
+<40:1>Zmień stronę
+<41:1>Zmień pogodę
+<44:1>Główna/ostatnia skala czasowa
+<45:1>Przeglądaj wyniki
+<46:1>napraw kamerę
+<52:1>
+<53:1>
+<54:1>
+<58:1>
+<66:1>
+<83:1>Demo crUI
+<88:1> zwiększenie
+<93:1>Zasoby
+<96:1>Złoto
+<98:1>Zdobycie {increment}
+<99:1>Stracić {increment}
+<106:1>Doświadczenie
+<108:1>Zdobycie {increment}
+<114:1>Korupcja
+<116:1>Wyczyść
+<118:1>Wyłączenie korupcji
+<124:1>Kombat
+<138:1>Teleport
+<141:1>Włącz klawisze teleportu
+<145:3>Główny bohater
+<146:3>Wybrane postacie
+<147:3>Cała impreza
+<151:1>Możesz włączyć klawisze skrótu, aby teleportować członków swojej drużyny do kursora myszy na obszarze lub na mapie globalnej.
+<154:1>Wspólne
+<161:1>To resetuje wszystkie rolki sprawdzania umiejętności dla wszystkich interaktywnych obiektów w obszarze.
+<164:1>Ustawienie Percepcji na 40
+<170:1>Daj wszystkie przedmioty
+<170:3>
+<171:1>Zidentyfikuj wszystkich
+<175:1>Podgląd
+<176:1>Wyniki dialogu
+<178:1>Wyrównanie okna dialogowego
+<180:1>Przypadkowe spotkania
+<182:1>Wydarzenia
+<184:1>Dekrety
+<186:1>Informacja o raelu
+<191:1>Dialog
+<193:1>♥♥ 
+<193:3>Miłość jest wolna
+<193:5> ♥♥
+<195:1>Pozwól 
+<195:3>każda płeć
+<195:5> 
+<195:7>dla każdego 
+<195:9>R
+<195:11>o
+<195:13>m
+<195:15>a
+<195:17>n
+<195:19>c
+<195:21>e
+<198:1>Jealousy Begone!
+<200:1>Pozwól 
+<200:3>multiple
+<200:5> romansów w tym samym czasie
+<203:1>Przyjaźń to magia
+<205:1>Eksperymentalne 
+<205:3> twoi przyjaciele wybaczają nawet twoje najbardziej podłe wybory.
+<207:1>Uczyń poprzednio wybrane odpowiedzi bardziej zrozumiałymi
+<209:1>Rozszerzenie dialogu o zdalnych towarzyszy
+<211:1>Eksperymentalne
+<211:3> Zezwól zdalnym towarzyszom na komentowanie prowadzonego dialogu.
+<216:1>Włącz dawnych towarzyszy
+<222:1>Rozszerzaj odpowiedzi dla odpowiedzi warunkowych
+<226:1>Pokaż niedostępne odpowiedzi
+<231:1>Niektóre odpowiedzi, takie jak komentarze dotyczące twoich mitycznych mocy, zawsze domyślnie wybiorą pierwszą. To pokaże kopię odpowiedzi i warunek dla każdej możliwej odpowiedzi, którą NPC może zrobić dla ciebie na podstawie
+<235:1>Randomize NPC Responses to Dialog Choices
+<237:1>Niektóre odpowiedzi, takie jak komentarze na temat twoich mitycznych mocy, domyślnie zawsze wybiorą pierwszą. To pozwala grze trochę namieszać.
+<237:3>Ostrzeżenie:
+<237:5> to wprowadzi losowość do odpowiedzi NPC na ciebie w ogóle i może prowadzić do zaskakujących lub nawet dzikich wyników.
+<240:1>Wyłącz ograniczenia dialogowe (wyrównanie)
+<241:1>Wyłącz ograniczenia dialogowe (ścieżka mityczna)
+<242:1>Ignoruj ograniczenia rozwiązań zdarzeń
+<244:1>Wyłącz ograniczenia dialogowe (wszystko, eksperymentalne)
+<249:1>Jakość życia
+<251:1>Zezwól na osiągnięcia podczas używania modów
+<253:1>To jest przeznaczone dla Ciebie, abyś mógł cieszyć się grą podczas używania modów, które poprawiają jakość Twojego życia.  Proszę mieć na uwadze społeczność graczy i unikać używania tego moda do trywializowania zdobywania prestiżowych osiągnięć, takich jak Sadistic Gamer. Autor rozmawia z Owlcatem na temat ograniczenia zakresu blokowania osiągnięć tylko do tych. Pokażmy im, że jako gracze potrafimy modować i oszukiwać odpowiedzialnie.
+<255:1>Object Highlight Toggle Mode
+<256:1>Podświetlanie kopiowalnych zwojów
+<257:1>Auto load Last Save on launch
+<257:3>Przytrzymaj Shift podczas uruchamiania, aby ominąć problem
+<258:1>Game Over Fix dla LEEEROOOOOOOYYY JEEEENKINS!!! omg on właśnie wbiegł!
+<258:3>Uniemożliwienie głupim towarzyszom (to ty Greybor) wymazania partii przez wbiegnięcie do pokoju ze smokiem i zginięcie...
+<259:1>Uczyń wyskakujące okienka zaklęć/zdolności/tematów szerszymi. 
+<261:1>Pokaż akronimy w wyskakujących okienkach zaklęć/zdolności/ przedmiotów
+<266:1>Icky Stuff Begone!!!
+<270:1>Pająki precz!
+<271:1>Potwory precz!
+<272:1>Zapominacze Begone!
+<273:1>Deraknis Begone!!!
+<274:1>Deskari Begone!
+<278:1>Niektórzy gracze uważają pająki i inne roje za obrzydliwe. To zastępuje je czymś przyjemniejszym.
+<280:1>Spraw, aby tutoriale nie pojawiały się, jeśli są wyłączone w ustawieniach
+<281:1>Napełnij materiały eksploatacyjne w slotach na pasku, jeśli są w ekwipunku
+<283:1>Modyfikator użycia zapasów
+<284:1>Modyfikator
+<285:1>Zezwalaj 
+<285:3>{modifierText} + Kliknięcie
+<285:5>Używanie przedmiotów z magazynu
+<288:3>
+<292:1>Modyfikator "kliknij, aby przenieść
+<293:1>Modyfikator
+<294:1>Zezwól 
+<294:3>{modifierText} + Klik
+<294:5>Aby przenieść cały stos
+<297:3>
+<300:1>Respec Refund Scrolls
+<302:1>Wyczyść pasek akcji
+<304:1>Upewnij się, że masz wyłączone autouzupełnianie w ustawieniach, w przeciwnym razie to po prostu zresetuje się do wartości domyślnych
+<306:1>napraw nieprawidłowy główny znak
+<312:1>Promowanie {newMainCharacter.CharacterName} na głównego bohatera!
+<320:1>Skala czasu gry
+<322:1>Alternatywna skala czasu
+<325:1>
+<327:1>Przyspiesza lub spowalnia całą grę (ruch, animacje, wszystko)
+<330:1>
+<335:1>Bindowalny klawisz skrótu do przełączania między głównym i alternatywnym mnożnikiem skali czasu
+<340:1> Opóźnienie walki oparte na obrotach
+<340:3>
+<347:1>Włączenie Brutalnej Niesprawiedliwej Trudności
+<354:1>To pozwala grać z oryginalnie wydaną trudnością Unfair. 
+<354:3>Nota:
+<354:5>Ta trudność Unfair była zbugowana i stosowała zamierzone modyfikatory trudności dwukrotnie. ToyBox pozwala na kontynuowanie gry na tym poziomie trudności Brutal i dalej.  Użyj suwaka poniżej, aby wybrać swój pożądany poziom Brutalności
+<357:1>Poziom brutalności
+<357:3>
+<366:1>
+<366:3>+
+<369:1>Nieuczciwe{suffix}
+<372:1>Brutalny{suffix}
+<376:1>{rarity}{suffix}
+<392:1>Kamera
+<393:1>Włącz zoom na wszystkich mapach i scenkach
+<395:1>Włącz obrót na wszystkich mapach i scenkach
+<397:1>Uwaga:
+<397:3>W cutscenkach i niektórych sytuacjach klawisze obrotu są wyłączone, więc musisz przytrzymać Mouse3, aby przeciągnąć, aby uzyskać obrót
+<400:1>Alt + kółko myszy, aby dostosować płaszczyznę klipu
+<403:1>Ctrl + Mouse3 Drag, aby dostosować wysokość kamery
+<405:1>Kamera swobodna
+<407:1>Rotacja
+<410:1>Zezwól na przeciągnięcie myszą3, aby dostosować nachylenie kamery
+<412:1>Doświadczalne
+<412:3> Pozwala to na regulację nachylenia (Camera Tilt) poprzez przytrzymanie Mouse3 (która wcześniej po prostu obracała).
+<412:5> Uwaga:
+<412:7> Przytrzymanie alt podczas przeciągania Mouse3 pozwala przesunąć położenie kamery.
+<416:1>Mouse:
+<418:1> Odwróć oś X.
+<421:1>Odwróć oś Y
+<426:1>Klawiatura:
+<428:1>Odwróć oś X
+<434:1>Pole widzenia
+<434:3>
+<435:1>FoV (sceny wycięte)
+<435:3>
+<439:1>Wyrównanie
+<440:1>Naprawa przesunięć wyrównania
+<440:3>Sprawia, że przesunięcia wyrównania w kierunku czystego dobra/zła/zła/chaotycznego przesuwają się tylko na tych osiach
+<441:1>Zapobiegaj zmianom ustawienia
+<441:3>Zobacz Party Editor, aby uzyskać bardziej szczegółową blokadę wyrównania dla każdej postaci
+<445:1>Cheaty
+<446:1>Nieograniczone nakładanie się modyfikatorów (statystyki/AC/uderzenia/obrażenia/itd)
+<449:1>Podświetlanie ukrytych obiektów
+<452:1>W mgle wojny 
+<456:1>Nieskończone umiejętności
+<457:1>Nieskończona ilość rzucanych zaklęć
+<458:1>Brak składników materialnych
+<459:1>Dezaktywacja negatywnych poziomów strony
+<460:1>Dezaktywacja obrażeń od zdolności strony
+<461:1>Dezaktywacja ataków okolicznościowych
+<462:1>Nieograniczone akcje podczas tury
+<463:1>Nieskończone ładunki na przedmiotach
+<465:1>Szybki czas odnowienia.
+<467:1>Spontaniczne kopiowanie zwojów magicznych
+<469:1>Disable Equipment Restrictions
+<470:1>Dezaktywacja maksymalnej zręczności zbroi
+<471:1>Dezaktywacja redukcji prędkości pancerza
+<472:1>Dezaktywacja niedziałania zaklęć magicznych w pancerzu i tarczy
+<473:1>Dezaktywacja karnych testów zbroi i tarczy
+<475:1>Brak przyjaznego ognia przy AOE
+<476:1>Darmowa metamagia
+<478:1>Brak mgły wojny
+<479:1>Przywracanie zaklęć i umiejętności po walce
+<480:1>Ładowanie przedmiotów po walce
+<481:1>Dostęp do zdalnych postaci
+<482:1>Pokazanie portretów zwierząt domowych
+<483:1>Bezzwłoczny odpoczynek po walce
+<484:1>Uniemożliwienie towarzyszom opuszczenia strony (eksperymentalne; włączaj tylko w razie potrzeby)
+<485:1>Natychmiastowa zmiana członków partii
+<486:1>Wyposażenie bez wagi
+<487:1>Umożliwienie użycia przedmiotu z magazynu podczas walki
+<488:1>Ignoruj wymagania wyrównania dla umiejętności
+<489:1>Zignoruj rozmiary zwierząt do mocowania.
+<490:1>Dosiądź dowolnej jednostki jako swojego wierzchowca
+<494:1>
+<495:1>Wyłączenie ataków z okazji
+<496:1>Można się przemieszczać
+<498:1>To pozwala kontrolowanym przez ciebie postaciom poruszać się przez wybraną kategorię jednostek podczas walki
+<501:1>Mnożnik promienia kolizji
+<501:3>
+<505:1>Szczególne klasy
+<506:1>Kinetyk: Redukcja oparzeń
+<506:3>
+<507:1>Arcanist: Mnożnik slotów na czary
+<508:1>
+<511:1>Odpocznij po dostosowaniu, aby ponownie przeliczyć swoje sloty na czary.
+<513:1>Wiedźma/Szaman: Cackling/Shanting wydłuża czas działania heksów o 10 min (poza walką)
+<514:1>Pozwolenie na jednoczesną aktywację umiejętności (jak osądy)
+<515:1>Kinetyk: Pozwól zebrać moc bez rąk
+<516:1>Barbarianin: Auto Start Rage When Entering Combat
+<517:1>Demon: Auto Start Rage When Entering Combat
+<518:1>Magus: Always Allow Spell Combat
+<522:1>Mnożniki
+<523:1>Doświadczenie
+<523:3>
+<524:1>Zarobione pieniądze
+<524:3>
+<525:1>Cena sprzedaży sprzedawcy
+<525:3>
+<526:1>Cena kupna sprzedawcy
+<526:3>
+<527:1>Zwiększenie ładowności
+<527:3>
+<528:1>Zwiększenie ładowności (tylko strona)
+<528:3>
+<529:1>Czary na dzień
+<529:3>
+<531:1>Prędkość poruszania się
+<531:3>
+<533:1>Cała drużyna porusza się z tą samą prędkością
+<535:1>Dostosowuje prędkość ruchu twojej drużyny na mapach obszaru
+<538:1>Prędkość podróżowania
+<538:3>
+<540:1>Dostosowuje prędkość ruchu twojej drużyny na mapach świata
+<543:1>Koszt towarzysza
+<543:3>
+<545:1>Dostosowuje koszty wynajmu najemników u sprzedawcy Pathfinder.
+<548:1>Mnożnik HP wroga
+<548:3>
+<549:1>Długość działania pocisków
+<549:3>
+<554:1>Dice Rolls
+<555:1>Wszystkie ataki trafione
+<556:1>Wszystkie trafienia krytyczne
+<557:1>Roll z przewagą
+<558:1>Słowa z minusem
+<559:1>Zawsze rzucaj 20
+<560:1>Zawsze rzucaj 1
+<561:1>Nigdy nie graj 20
+<562:1>Nigdy nie rzucaj 1
+<563:1>Zawsze rzucaj 20 Inicjatywa 
+<564:1>Zawsze rzucaj 1 inicjatywą
+<565:1>Zawsze rzucaj 20 poza walką
+<566:1>Zabierz 10 z walki (zawsze)
+<567:1>Zabierz 10 z walki (minimum)
+<571:1>Summony
+<572:1>Umożliwiaj kontrolę
+<577:1>Pierwotny
+<577:3>dobry dla partii
+<580:1>Modyfikacja przywołań na
+<581:1>Mnożnik czasu trwania
+<581:3>
+<582:1>zwiększenie/zmniejszenie poziomu
+<582:3>
+<585:1>Sekundowy
+<585:3>Dobry dla większej grupy lub do zmniejszenia liczby wrogów
+<588:1>Modyfikacja przywołań na
+<589:1>Mnożnik czasu trwania
+<589:3>
+<590:1>zwiększenie/zmniejszenie poziomu
+<590:3>

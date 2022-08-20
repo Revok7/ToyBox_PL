@@ -1,0 +1,3 @@
+<40:1>
+<47:1>
+<84:1> Etiudy dziecięce: {loadedEtudes[parentEtude].Name}
