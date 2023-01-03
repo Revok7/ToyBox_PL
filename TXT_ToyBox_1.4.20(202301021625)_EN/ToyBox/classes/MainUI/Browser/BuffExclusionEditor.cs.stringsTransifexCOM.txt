@@ -1,0 +1,24 @@
+<24:1>1
+<36:1>[unknown key
+<47:1>Blueprints
+<47:3> loading: 
+<47:5>P2
+<55:1>Hide
+<55:3>Show
+<57:1>{hideOrShowString(_showCurrentExceptions)} current list
+<62:1>{hideOrShowString(_showBuffsToAdd)} buffs to add to list
+<65:1>Search
+<82:1><
+<86:1>>
+<88:1>Go to page: 
+<89:1>goToPage
+<90:1>Go!
+<114:1>Page {_currentPage + 1} of {GetMaxPages()}
+<147:1>Add
+<153:1>Remove
+<163:1>In-Game Name
+<164:1>Internal Name
+<166:1>Guid
+<168:1>Description
+<200:1>Currently ignored buffs: {string.Join(
+<200:3>, settings.buffsToIgnoreForDurationMultiplier)}. There are {_allBuffs.Count} total buffs.

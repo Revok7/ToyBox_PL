@@ -1,0 +1,86 @@
+<14:1>Character Creation
+<15:1>Build Points (Main)
+<15:3>
+<16:1>Build Points (Mercenary)
+<16:3>
+<17:1>Ability Max
+<17:3>
+<18:1>Ability Min
+<18:3>
+<20:1>All Appearance Options
+<22:1>Allows you to choose all appearance options from any race
+<27:1>Mythic Paths
+<28:1>Warning! Using these might break your game somehow. Recommend for experimental tinkering like trying out different builds, and not for actually playing the game.
+<29:1>Unlock Aeon
+<30:1>Unlock Azata
+<31:1>Unlock Trickster
+<32:1>Unlock Lich
+<33:1>Unlock Swarm
+<33:3>Only available at Mythic level 8 or higher
+<34:1>Unlock Gold Dragon
+<34:3>Only available at Mythic level 8 or higher
+<36:1>All Mythic Paths
+<38:1>Unlock mythic paths besides Legend and Devil which block progression
+<40:1>
+<41:1>Unlock Devil
+<41:3>Prevents you from advancing in Aeon or Azata
+<42:1>Unlock Legend
+<42:3>Prevents you from advancing all other Mythic Path
+<46:1>Create & Level Up
+<48:1>Feature Selection Multiplier
+<48:3>
+<50:1>This allows you to select a given feature more than once at level up
+<52:1>Apply Feature Selection Multiplier to party members
+<54:1>Allow Multiple Archetypes When Selecting A New Class
+<56:1>This allows you to select combinations of archetypes when selecting a class for the first time that contain distinct spellbooks
+<58:1>Enable  'Next' when no feat selections are available
+<59:1>Make All Feature Selections Optional
+<61:1>Ignore Attribute Cap
+<63:1>Ignore Remaining Attribute Points
+<66:1>Ignore Skill Cap
+<68:1>Ignore Remaining Skill Points
+<70:1>Always Able To Level Up
+<71:1>Add Full Hit Die Value
+<73:1>Ignore Class Restrictions
+<75:1>Experimental
+<75:3>: in addition to regular leveling, this allows you to choose any mythic class each time you level up starting from mythic rank 1. This may have interesting and unexpected effects. Backup early and often...
+<78:1>Ignore Feat Restrictions
+<80:1>Experimental
+<80:3>: lets you select any feat ignoring prerequisites.
+<82:1>Allow Companions to Take Mythic Classes
+<83:1>Allow Pets to Take Mythic Classes
+<84:1>Ignore Prerequisites When Choosing A Feat
+<85:1>Ignore Caster Type And Spell Level Restrictions
+<86:1>Ignore Forbidden Archetypes
+<87:1>Ignore Required Stat Values
+<88:1>Ignore Required Class Levels
+<89:1>Ignore Alignment When Choosing A Class
+<90:1>Ignore Prerequisite Features (like Race) when choosing Class
+<92:1>Ignore Spellbook Restrictions When Choosing Spells
+<95:1>Skip Spell Selection
+<97:1>Lock Character Level
+<98:1>Ignore Alignment Restrictions
+<102:1>Ignore Feat Prerequisites When Choosing A Class
+<103:1>Ignore Feat Prerequisits (List) When Choosing A Class
+<105:1>Remove Level 20 Caster Level Cap
+<106:1>Party Level Cap 40 (continuous growth after 20)
+<107:1>Party Level Cap 24 (exponential growth)
+<113:1>Multiple Classes
+<114:1>Experimental Preview
+<116:1>Multiple Classes On Level-Up
+<119:1>Experimental - With this enabled you can configure characters in the Party Editor to gain levels in additional classes whenever they level up. See the link for more information on this campaign variant.
+<120:1>Gestalt Characters
+<120:3>https://www.d20srd.org/srd/variant/classes/gestaltCharacters.htm
+<125:1>Hit Point (Hit Die) Growth
+<128:1>Basic Attack Growth Pr
+<131:1>Saving Throw Growth
+<134:1>Skill Point Growth
+<137:1>Use Recalculate Caster Levels
+<138:1>Restrict Caster Level To Current
+<139:1>Restrict CL to Current (temp) 
+<140:1>Restrict Class Level for Prerequisites to Caster Level
+<141:1>Fix Favored Class HP
+<142:1>Always Receive Favored Class HP
+<143:1>Always Receive Favored Class HP Except Prestige
+<151:1>Class Selection
+<158:1>Char Gen

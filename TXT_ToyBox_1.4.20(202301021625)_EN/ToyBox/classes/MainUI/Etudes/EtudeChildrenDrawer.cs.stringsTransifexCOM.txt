@@ -1,0 +1,3 @@
+<40:1>
+<47:1>
+<84:1>Child Etudes: {loadedEtudes[parentEtude].Name}

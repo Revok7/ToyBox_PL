@@ -1,0 +1,14 @@
+<19:1>Party
+<20:1>Party & Pets
+<21:1>All
+<22:1>Active
+<23:1>Remote
+<24:1>Custom
+<25:1>Pets
+<26:1>Familiers
+<27:1>Nearby
+<32:1>Friendly
+<33:1>Enemies
+<34:1>All Units
+<66:1>{GetSelectedCharacter().CharacterName}
+<68:1>will be used for adding/remove features, buffs, etc 

@@ -1,0 +1,291 @@
+<24:1>Rest All
+<25:1>Rest Selected
+<26:1>Empowered
+<27:1>Common Buffs
+<28:1>Buff Like A Goddess
+<29:1>Remove Buffs
+<30:1>Remove Deaths Door
+<31:1>Kill All Enemies
+<32:1>Summon Zoo
+<33:1>Lobotomize Enemies
+<36:1>Teleport Party To You
+<37:1>Go To Global Map
+<38:1>Reroll Perception
+<39:1>Reset Interactables
+<40:1>Change Party
+<41:1>Change Weather
+<44:1>Main/Alt Timescale
+<45:1>Preview Results
+<46:1>Fix Camera
+<55:1>
+<56:1>
+<57:1>
+<61:1>
+<69:1>
+<86:1>Demo crUI
+<91:1>increment
+<96:1>Resources
+<99:1>Gold
+<101:1>Gain {increment}
+<102:1>Lose {increment}
+<109:1>Experience
+<111:1>Gain {increment}
+<117:1>Corruption
+<119:1>Clear
+<121:1>Disable Corruption
+<127:1>Combat
+<141:1>Teleport
+<144:1>Enable Teleport Keys
+<148:3>Main Character
+<149:3>Selected Chars
+<150:3>Whole Party
+<154:1>You can enable hot keys to teleport members of your party to your mouse cursor on Area or the Global Map
+<157:1>Common
+<164:1>This resets all the skill check rolls for all interactable objects in the area
+<167:1>Set Perception to 40
+<173:1>Give All Items
+<173:3>
+<174:1>Identify All
+<178:1>Preview
+<179:1>Dialog Results
+<181:1>Dialog Alignment
+<183:1>Random Encounters
+<185:1>Events
+<187:1>Decrees
+<189:1>Relic Info
+<194:1>Dialog
+<196:1>♥♥ 
+<196:3>Love is Free
+<196:5> ♥♥
+<198:1>Allow 
+<198:3>any gender
+<198:5> 
+<198:7>for any 
+<198:9>R
+<198:11>o
+<198:13>m
+<198:15>a
+<198:17>n
+<198:19>c
+<198:21>e
+<201:1>Jealousy Begone!
+<203:1>Allow 
+<203:3>multiple
+<203:5> romances at the same time
+<206:1>Friendship is Magic
+<208:1>Experimental 
+<208:3> your friends forgive even your most vile choices.
+<210:1>Make Previously Chosen Answers More Clear
+<212:1>Expand Dialog To Include Remote Companions
+<214:1>Experimental
+<214:3> Allow remote companions to make comments on dialog you are having.
+<219:1>Include Former Companions
+<225:1>Expand Answers For Conditional Responses
+<229:1>Show Unavailable Responses
+<234:1>Some responses such as comments about your mythic powers will always choose the first one by default. This will show a copy of the answer and the condition for each possible response that an NPC might make to you based on
+<238:1>Randomize NPC Responses To Dialog Choices
+<240:1>Some responses such as comments about your mythic powers will always choose the first one by default. This allows the game to mix things up a bit
+<240:3>\nWarning:
+<240:5> this will introduce randomness to NPC responses to you in general and may lead to surprising or even wild outcomes
+<243:1>Disable Dialog Restrictions (Alignment)
+<244:1>Disable Dialog Restrictions (Mythic Path)
+<245:1>Ignore Event Solution Restrictions
+<247:1>Disable Dialog Restrictions (Everything, Experimental)
+<252:1>Quality of Life
+<254:1>Allow Achievements While Using Mods
+<256:1>This is intended for you to be able to enjoy the game while using mods that enhance your quality of life.  Please be mindful of the player community and avoid using this mod to trivialize earning prestige achievements like Sadistic Gamer. The author is in discussion with Owlcat about reducing the scope of achievement blocking to just these. Let's show them that we as players can mod and cheat responsibly.
+<258:1>Object Highlight Toggle Mode
+<259:1>Highlight Copyable Scrolls
+<260:1>Auto load Last Save on launch
+<260:3>Hold down shift during launch to bypass
+<261:1>Game Over Fix For LEEEROOOOOOOYYY JEEEENKINS!!! omg he just ran in!
+<261:3>Prevents dumb companions (that's you Greybor) from wiping the party by running running into the dragon room and dying...
+<262:1>Make Spell/Ability/Item Pop-Ups Wider 
+<264:1>Show Acronyms in Spell/Ability/Item Pop-Ups
+<269:1>Icky Stuff Begone!!!
+<273:1>Spiders Begone!
+<274:1>Vescavors Begone!
+<275:1>Retrievers Begone!
+<276:1>Deraknis Begone!
+<277:1>Deskari Begone!
+<281:1>Some players find spiders and other swarms icky. This replaces them with something more pleasent
+<283:1>Make tutorials not appear if disabled in settings
+<284:1>Refill consumables in belt slots if in inventory
+<286:1>InventoryUseModifier
+<287:1>Modifer
+<288:1>Allow 
+<288:3>{modifierText} + Click
+<288:5> To Use Items In Inventory
+<291:3>
+<295:1>ClickToTransferModifier
+<296:1>Modifer
+<297:1>Allow 
+<297:3>{modifierText} + Click
+<297:5> To Transfer Entire Stack
+<300:3>
+<303:1>Respec Refund Scrolls
+<305:1>Clear Action Bar
+<307:1>Make sure you have auto-fill turned off in settings or else this will just reset to default
+<309:1>Fix Incorrect Main Character
+<315:1>Promoting {newMainCharacter.CharacterName} to main character!
+<323:1>Game Time Scale
+<325:1>Alternate Time Scale
+<328:1>
+<330:1>Speeds up or slows down the entire game (movement, animation, everything)
+<333:1>
+<338:1>Bindable hot key to swap between main and alternate time scale multipliers
+<343:1>Turn Based Combat Delay
+<343:3>
+<350:1>Enable Brutal Unfair Difficulty
+<357:1>This allows you to play with the originally released Unfair difficulty. 
+<357:3>Note:
+<357:5>This Unfair difficulty was bugged and applied the intended difficulty modifers twice. ToyBox allows you to keep playing at this Brutal difficulty level and beyond.  Use the slider below to select your desired Brutality Level
+<360:1>Brutality Level
+<360:3>
+<369:1>
+<369:3>+
+<372:1>Unfair{suffix}
+<375:1>Brutal{suffix}
+<379:1>{rarity}{suffix}
+<395:1>Camera
+<396:1>Enable Zoom on all maps and cutscenes
+<398:1>Enable Rotate on all maps and cutscenes
+<400:1>Note:
+<400:3> For cutscenes and some situations the rotation keys are disabled so you have to hold down Mouse3 to drag in order to get rotation
+<403:1>Alt + Mouse Wheel To Adjust Clip Plane
+<406:1>Ctrl + Mouse3 Drag To Adjust Camera Elevation
+<408:1>Free Camera
+<410:1>Rotation
+<413:1>Allow Mouse3 Drag to adjust Camera Tilt
+<415:1>Experimental
+<415:3> This allows you to adjust pitch (Camera Tilt) by holding down Mouse3 (which previously just rotated).
+<415:5> Note:
+<415:7> Holding alt while Mouse3 dragging lets you move the camera location.
+<419:1>Mouse:
+<421:1>Invert X Axis
+<424:1>Invert Y Axis
+<429:1>Keyboard:
+<431:1>Invert X Axis
+<437:1>Field Of View
+<437:3>
+<438:1>FoV (Cut Scenes)
+<438:3>
+<442:1>Alignment
+<443:1>Fix Alignment Shifts
+<443:3>Makes alignment shifts towards pure good/evil/lawful/chaotic only shift on those axes
+<444:1>Prevent Alignment Changes
+<444:3>See Party Editor for more fine grained alignment locking per character
+<448:1>Cheats
+<449:1>Unlimited Stacking of Modifiers (Stat/AC/Hit/Damage/Etc)
+<452:1>Highlight Hidden Objects
+<455:1>In Fog Of War 
+<459:1>Infinite Abilities
+<460:1>Infinite Spell Casts
+<461:1>No Material Components
+<462:1>Disable Party Negative Levels
+<463:1>Disable Party Ability Damage
+<464:1>Disable Attacks of Opportunity
+<465:1>Unlimited Actions During Turn
+<466:1>Infinite Charges On Items
+<468:1>Instant Cooldown
+<470:1>Spontaneous Caster Scroll Copy
+<472:1>Disable Equipment Restrictions
+<473:1>Disable Armor Max Dexterity
+<474:1>Disable Armor Speed Reduction
+<475:1>Disable Armor & Shield Arcane Spell Failure
+<476:1>Disable Armor & Shield Checks Penalty
+<478:1>No Friendly Fire On AOEs
+<479:1>Free Meta-Magic
+<481:1>No Fog Of War
+<482:1>Restore Spells & Skills After Combat
+<483:1>Recharge Items After Combat
+<484:1>Access Remote Characters
+<485:1>Show Pet Portraits
+<486:1>Instant Rest After Combat
+<487:1>Disallow Companions Leaving Party (experimental; only enable while needed)
+<488:1>Instant change party members
+<489:1>Equipment No Weight
+<490:1>Allow Item Use From Inventory During Combat
+<491:1>Ignore Alignment Requirements for Abilities
+<492:1>Ignore Pet Sizes For Mounting
+<493:1>Ride Any Unit As Your Mount
+<497:1>
+<498:1>Disable Attacks Of Opportunity
+<499:1>Can Move Through
+<501:1>This allows characters you control to move through the selected category of units during combat
+<504:1>Collision Radius Multiplier
+<504:3>
+<508:1>Class Specific
+<509:1>Kineticist: Burn Reduction
+<509:3>
+<510:1>Arcanist: Spell Slot Multiplier
+<511:1>
+<514:1>Please rest after adjusting to recalculate your spell slots.
+<516:1>Witch/Shaman: Cackling/Shanting Extends Hexes By 10 Min (Out Of Combat)
+<517:1>Allow Simultaneous Activatable Abilities (Like Judgements)
+<518:1>Kineticist: Allow Gather Power Without Hands
+<519:1>Barbarian: Auto Start Rage When Entering Combat
+<520:1>Demon: Auto Start Rage When Entering Combat
+<521:1>Magus: Always Allow Spell Combat
+<525:1>Multipliers
+<526:1>Experience
+<526:3>
+<527:1>Money Earned
+<527:3>
+<528:1>Vendor Sell Price
+<528:3>
+<529:1>Vendor Buy Price
+<529:3>
+<530:1>Increase Carry Capacity
+<530:3>
+<531:1>Increase Carry Capacity (Party Only)
+<531:3>
+<532:1>Spontaneous Spells Per Day
+<532:3>
+<533:1>Prepared Spellslots
+<533:3>
+<535:1>Movement Speed
+<535:3>
+<537:1>Whole Team Moves Same Speed
+<539:1>Adjusts the movement speed of your party in area maps
+<542:1>Travel Speed
+<542:3>
+<544:1>Adjusts the movement speed of your party on world maps
+<547:1>Companion Cost
+<547:3>
+<549:1>Adjusts costs of hiring mercenaries at the Pathfinder vendor
+<552:1>Enemy HP Multiplier
+<552:3>
+<553:1>Buff Duration
+<553:3>
+<554:1>Exceptions to Buff Duration Multiplier (Advanced; will cause blueprints to load)
+<564:1>Dice Rolls
+<565:1>All Attacks Hit
+<566:1>All Hits Critical
+<567:1>Roll With Avantage
+<568:1>Roll With Disavantage
+<569:1>Always Roll 20
+<570:1>Always Roll 1
+<571:1>Never Roll 20
+<572:1>Never Roll 1
+<573:1>Always Roll 20 Initiative 
+<574:1>Always Roll 1 Initiative
+<575:1>Always Roll 20 Out Of Combat
+<576:1>Take 10 Out of Combat (Always)
+<577:1>Take 10 Out of Combat (Minimum)
+<581:1>Summons
+<582:1>Make Controllable
+<587:1>Primary
+<587:3>good for party
+<590:1>Modify Summons For
+<591:1>Duration Multiplier
+<591:3>
+<592:1>Level Increase/Decrease
+<592:3>
+<595:1>Secondary
+<595:3>good for larger group or to reduce enemies
+<598:1>Modify Summons For
+<599:1>Duration Multiplier
+<599:3>
+<600:1>Level Increase/Decrease
+<600:3>

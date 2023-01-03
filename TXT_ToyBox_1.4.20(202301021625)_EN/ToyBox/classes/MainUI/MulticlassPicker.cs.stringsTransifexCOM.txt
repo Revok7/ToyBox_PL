@@ -1,0 +1,55 @@
+<17:1>creation of 
+<17:3>new characters
+<17:5>\nNote:
+<18:1> This value applies to 
+<18:3>all saves
+<18:5> and in the main menu
+<19:1>when leveling up 
+<19:3>\nNote:
+<20:1> This applies only to the 
+<20:3>current save.
+<23:1>Configure multiclass classes and gestalt flags to use during {targetString}
+<25:1>Show Class Descriptions
+<36:1>Character Level
+<45:1>MulticlassOptions.Set
+<53:1>Mythic
+<59:1>MulticlassOptions.Set
+<90:1> ({cd.Level})
+<101:1>Add
+<101:3>Del
+<102:1>PickerRow - {action} class: {cl.HashKey()} - {options} -> {options.Contains(cl)}
+<110:1>to select this class you must unselect at least one of your other existing classes
+<112:1>due to existing archetype, {chArchetype.Name.yellow()},  this multiclass option will only be applied during respec.
+<117:1>gestalt
+<124:1>this flag lets you not count this class in computing character level
+<147:1> ({cd.Level})
+<153:1>Add
+<153:3>Del
+<154:1>PickerRow -  {action}  - arch: {archetype.HashKey()} - {archetypeOptions}
+<164:1>due to existing archetype, {chArchetype.Name.yellow()}, this multiclass archetype will only be applied during respec.
+<166:1>due to existing class, {cd.CharacterClass.Name.yellow()}, this multiclass archetype will only be applied during respec.
+<171:1>gestalt
+<178:1>this flag lets you not count this class in computing character level
+<185:1>this flag lets you not count this class in computing character level
+<215:1>Show Migrations
+<217:1>toggle this if you want show older ToyBox settings for 
+<217:3>Multi-class selections, Gestalt Flags and Allow Levels Past 20 
+<226:1>the following options allow you to migrate previous settings that were stored in toybox to the new per setting save mechanism for 
+<226:3>Multi-class selections, Gestalt Flags and Allow Levels Past 20 
+<226:5>\nNote:
+<226:7>you may have configured this for a different save so use care in doing this migration
+<229:1>Multi-class settings
+<231:1>{settings.multiclassSettings.Count}
+<233:1>Migrate
+<235:1>Remove
+<235:3>this will remove your old multiclass settings from ToyBox settings but does not affect any other saves that have already migrated them
+<239:1>Gestalt Flags
+<241:1>{settings.excludeClassesFromCharLevelSets.Count}
+<243:1>Migrate
+<248:1>Remove
+<248:3>this will remove your old gestalt flags from ToyBox settings but does not affect any other saves that have already migrated them
+<252:1>Chars Able To Exceed Level 20
+<254:1>{settings.charIsLegendaryHero.Count}
+<256:1>Migrate
+<258:1>Remove
+<258:3>this will remove your old Allow Level Past 20 flags from ToyBox settings but does not affect any other saves that have already migrated them

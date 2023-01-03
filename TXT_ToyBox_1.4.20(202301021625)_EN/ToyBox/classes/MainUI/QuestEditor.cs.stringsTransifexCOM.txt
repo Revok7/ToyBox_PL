@@ -1,0 +1,34 @@
+<2:1>Author
+<2:3>spacehamster
+<3:1>HomePage
+<3:3>https://www.nexusmods.com/pathfinderkingmaker/mods/36
+<4:1>Repository
+<4:3>https://raw.githubusercontent.com/spacehamster/KingmakerKingdomResolutionMod/master/KingdomResolution/Repository.json
+<25:1>gray
+<26:1>cyan
+<27:1>white
+<28:1>red
+<40:1>Addendum: 
+<41:1>_Fail
+<46:1>
+<46:3>{quest.State}
+<47:1>
+<47:3>{objective.State}
+<60:1>Hide Completed
+<62:1>Show Unrevealed Steps
+<92:1>{objectiveIndex}
+<100:1>Start
+<103:1>Finish
+<103:3>Complete
+<107:1>Reset Time
+<108:1>m_ObjectiveStartTime
+<113:1>Restart
+<115:1>m_State
+<124:1>
+<135:1>{childIndex}
+<143:1>Start
+<146:1>Complete (Final)
+<146:3>Complete
+<154:1>
+<177:1>Teleport
+<189:1> Area

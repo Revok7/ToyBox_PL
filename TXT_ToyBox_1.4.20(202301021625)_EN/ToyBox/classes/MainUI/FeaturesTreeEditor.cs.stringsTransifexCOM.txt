@@ -1,0 +1,15 @@
+<22:1>Features Tree
+<29:1>MainMenu
+<29:3>Start
+<30:1> * Please start or load the game first.
+<50:1>Refresh
+<51:1>Expand All
+<52:1>Collapse All
+<64:1>
+<64:3> {node.Level} - 
+<65:1>[{node.Blueprint.name}]
+<66:1>{levelText}{node.Name.Bold()} {blueprintName}
+<76:1>{node.Expanded} {titleText}
+<107:1>prog: {progression}
+<113:1>feature: {name}
+<115:1>source: {source}

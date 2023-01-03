@@ -1,0 +1,73 @@
+<22:1>You must unlock the crusade before you can access these toys.
+<26:1>Morale
+<28:1>Flags always green
+<33:1>Morale
+<33:3>
+<38:1>Max Morale
+<38:3>
+<43:1>Min Morale
+<43:3>
+<49:1>Kingdom
+<51:1>increment
+<54:1>Experimental
+<61:1>Kingdom Stat
+<62:1>Rank
+<63:1>Experience
+<64:1>Next Rank
+<77:1>Gain {settings.increment}
+<80:1>Lose {settings.increment}
+<86:1>Cost Modifiers
+<86:3>The following modifiers all work on 
+<86:5>cost = cost (1 + modifier) 
+<86:7>so a value of 
+<86:9>-1
+<86:11> means the cost is free, 
+<86:13>0
+<86:15> is normal cost and 
+<86:17>2
+<86:19> increases it 3x
+<87:1>Claim Cost Modifier
+<88:1>Claim Time Modifier
+<89:1>Rankup Time Modifer
+<90:1>Build Time Modifier
+<92:1>Random Encounters
+<92:3>The following modifiers all work on 
+<92:5>chance = chance (1 + modifier) 
+<92:7>so a value of 
+<92:9>-1
+<92:11> means the chance is 0, 
+<92:13>0
+<92:15> is chance cost and 
+<92:17>2
+<92:19> increases it 3x
+<93:1>% Chance (Unclaimed)
+<94:1>% Chance (Claimed)
+<95:1>% Chance (Upgraded)
+<97:1>Confidence (Royal Court)
+<98:1>Confidence (Nobles)
+<99:1>Victories This Week
+<100:1>Unrest
+<101:1>Alignment
+<108:1>Kingdom Finances
+<112:1>Finances
+<114:1>Gain {settings.increment}
+<117:1>Lose {settings.increment}
+<122:1>Materials
+<124:1>Gain {settings.increment}
+<127:1>Lose {settings.increment}
+<132:1>Favors
+<134:1>Gain {settings.increment}
+<137:1>Lose {settings.increment}
+<147:1>Instant Events
+<148:1>Ignore Event Solution Restrictions
+<151:1>Crusade card resolution time multiplier
+<151:3>
+<153:1>Multiplies crusade card resolution time by (1 + modifier). -1 will make things as fast as possible (minimum 1 day to avoid possible bugs)
+<156:1>Build Time Modifier
+<156:3>
+<162:1>Multiplies build time by (1 + modifier). -1 will make new buildings instant.
+<172:1>Date
+<174:1>+1 Day
+<175:1>+1 Month
+<179:1>Current Day
+<180:1>Current Turn

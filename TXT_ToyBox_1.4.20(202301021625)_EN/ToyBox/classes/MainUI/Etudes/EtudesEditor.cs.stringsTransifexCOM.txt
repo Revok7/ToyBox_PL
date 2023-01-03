@@ -1,0 +1,57 @@
+<27:1>f0e6f6b732c40284ab3c103cad2455cc
+<28:1>
+<29:1>
+<37:1>
+<66:1>Note
+<66:3> this is a new and exciting feature that allows you to see for the first time the structure and some basic relationships of 
+<66:5>Etudes
+<66:7> and other 
+<66:9>Elements
+<66:11> that control the progression of your game story. Etudes are hierarchical in structure and additionally contain a set of 
+<66:13>Elements
+<66:15> that can both conditions to check and actions to execute when the etude is started. As you browe you will notice there is a disclosure triangle next to the name which will show the children of the Etude.  Etudes that have 
+<66:17>Elements
+<66:19> will offer a second disclosure triangle next to the status that will show them to you.
+<67:1>WARNING
+<67:3> this tool can both miraculously fix your broken progression or it can break it even further. Save and back up your save before using.
+<71:1>Search
+<73:1>Search
+<75:1>Flags Only
+<77:1>Show GUIDs
+<79:1>Show Comments (some in Russian)
+<80:1>Etude Hierarchy : {(loadedEtudes.Count == 0 ? 
+<80:3> : loadedEtudes[parent].Name)}
+<81:1>H : {(loadedEtudes.Count == 0 ? 
+<81:3> : loadedEtudes[selected].Name)}
+<84:1>Refresh
+<87:1>Update DREAMTOOL Index
+<98:1>Ширина раскрытия нода
+<108:1>Completion блокируется условиями самого этюда
+<112:1>Completion блокируется условиями детей: 
+<125:1>
+<127:1>Areas
+<127:3>All
+<142:1>Hierarchy tree : {(loadedEtudes.Count == 0 ? 
+<142:3> : loadedEtudes[parent].Name)}
+<145:1>No Etudes
+<146:1>Refresh
+<162:1>
+<172:1>Generate Comment Translation Table
+<196:1>line: {lineNumber} - topLines: {topLines} scrollOffset: {scrollOffset} - {Event.current.type} - isVisible: {isVisible}
+<204:1>Actions
+<229:1>{eltCount} elements
+<234:1>{conflictCount} conflicts
+<240:1>{gameActions.Count} actions
+<244:1>>
+<245:1>Select
+<261:1>ValidationProblem
+<266:1>🔗
+<268:1>⎌
+<271:1>Can Start
+<305:1>{gameAction.GetCaption()} failed to run {e.ToString().yellow()}
+<309:1>?
+<314:1>{element.GetType().Name.cyan()} : {condition.CheckCondition().ToString().orange()}
+<316:1>{element.GetType().Name.cyan()} : {conditional.ConditionsChecker.Check().ToString().orange()} - {string.Join(
+<316:3>, conditional.ConditionsChecker.Conditions.Select(c => c.GetCaption())).yellow()}
+<320:1>{conflictCount}
+<428:1>CONTEXT/BlueprintEtude/Open in EtudeViewer

@@ -1,0 +1,59 @@
+<15:1>
+<18:1>Open Area Exit Loot Window
+<31:1>Inventory
+<33:1>Export
+<33:3>inventory.json
+<35:1>Import
+<35:3>inventory.json
+<37:1>Replace
+<37:3>inventory.json
+<43:1>Loot
+<47:1>Area exit loot screen useful with the mod Cleaner to clear junk loot mid dungeon leaving less clutter on the map
+<50:1>Reveal Ground Loot
+<52:1>Shows all chests/bags/etc on the map excluding hidden
+<55:1>Reveal Hidden Ground Loot
+<57:1>Shows all chests/bags/etc on the map including hidden
+<60:1>Reveal Inevitable Loot
+<62:1>Shows unlocked Inevitable Excess DLC rewards on the map
+<65:1>Mass Loot Shows Everything When Leaving Map
+<67:1>Some items might be invisible until looted
+<71:1>Color Items By Rarity
+<74:1>This makes loot function like Diablo or Borderlands. {
+<74:3>.orange()}
+<75:1>The coloring of rarity goes as follows:
+<76:1>Rarity
+<78:1>Trash
+<79:1>Common
+<80:1>Uncommon
+<83:1>Rare
+<84:1>Epic
+<85:1>Legendary
+<88:1>Mythic
+<89:1>Godly
+<90:1>Notable
+<90:3>*
+<93:1>*
+<93:3> Notable
+<93:5> denotes items that are deemed to be significant for plot reasons or have significant subtle properties
+<99:1>.green());
+<102:1>Hide Level 
+<103:1>Auto Sell Level 
+<109:1>Loot Checklist
+<111:1>
+<115:1>\n({areaPrivateName})
+<118:1>Rarity: 
+<124:1>itemSearchText
+<128:1>Show Friendly
+<129:1>Blueprint
+<130:1>Description
+<133:1>Not available in the Main Menu
+<134:1>Containers
+<134:3>Units
+<145:1>{group.Key.cyan()}: {count}
+<155:1>{present.GetName()}
+<158:1> Perception DC: {present.InteractionLoot?.Owner?.PerceptionCheckDC}
+<160:1> Perception DC: NA
+<163:1> Trickery DC: {trickDc}
+<165:1> Trickery DC: NA
+<174:1>rarity: {lewt.Blueprint.Rarity()} - color: {lewt.Blueprint.Rarity().color()}
+<196:1>No Loot Available

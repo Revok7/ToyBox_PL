@@ -1,0 +1,18 @@
+<13:1>
+<15:1>Settings
+<17:1>Reset UI
+<19:1>Tells the game to reset the in game UI.
+<19:3> Warning
+<19:5> Using this in dialog or the book will dismiss that dialog which may break progress so use with care
+<22:1>Enable Game Development Mode
+<24:1>This turns on the developer console which lets you access cheat commands, shows a FPS window (hide with F11), etc
+<26:1>
+<27:1>Log Level
+<28:1>
+<29:1>Strip HTML (colors) from Native Console
+<31:1>Strip HTML (colors) from Logs Tab in Unity Mod Manager
+<33:1>Display guids in most tooltips, use shift + left click on items/abilities to copy guid to clipboard
+<38:1>Localizaton
+<44:1>Current Cultrue
+<46:1>{cultureInfo.DisplayName}({cultureInfo.Name})
+<49:1>Culture

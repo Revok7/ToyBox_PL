@@ -1,0 +1,134 @@
+<84:1>Add
+<88:1>Remove
+<93:1>Recruit
+<97:1>Unrecruit
+<106:1>Respec
+<113:1>Log Caster Info
+<133:1>Nearby
+<134:1>Nearby Distance
+<134:3> meters
+<145:1>Party Level 
+<145:3>{Game.Instance.Player.PartyLevel}
+<150:1>Encounter CR 
+<150:3>{encounterCR}
+<189:1>
+<189:3>0
+<189:5>m
+<194:1>   lvl
+<194:3>   lv
+<194:5> {level}
+<196:1>  
+<196:3>
+<196:5>{level} > 
+<196:7>{nextLevel}
+<200:1>+1
+<204:1>max
+<210:1>  my
+<210:3>  my
+<210:5> {mythicLevel}
+<212:1>  
+<212:3>
+<212:5>{mythicLevel} > 
+<212:7>{nextML}
+<215:1>+1
+<219:1>max
+<226:1>{classData.Count} Classes
+<228:1>selected {ch.CharacterName}
+<233:1>Stats
+<239:1>Facts
+<244:1>Features
+<249:1>Buffs
+<255:1>Abilities
+<262:1>{spellCount} Spells
+<286:1>Multiple Classes On Level-Up
+<289:1>Config
+<293:1>Experimental - See 'Level Up + Multiclass' for more options and info
+<298:1>Allow Levels Past 20
+<316:1>Tick this to let your character exceed the level 20 level cap like the Legend mythic path
+<327:1>Character Level
+<328:1><
+<330:1>level
+<330:3>: {prog.CharacterLevel}
+<331:1>>
+<333:1>Reset
+<336:1>This directly changes your character level but will not change exp or adjust any features associated with your character. To do a normal level up use +1 Lvl above.  This gets recalculated when you reload the game.  
+<336:3>If you want to alter default character level mark classes you want to exclude from the calculation with 
+<336:5>gestalt
+<336:7> which means those levels were added for multi-classing. See the link for more information on this campaign variant.
+<337:1>Gestalt Characters
+<337:3>https://www.d20srd.org/srd/variant/classes/gestaltCharacters.htm
+<342:1>Experience
+<344:1>{prog.Experience}
+<346:1>Set
+<351:1>This sets your experience to match the current value of character level.
+<356:1>Mythic Level
+<357:1><
+<359:1>my lvl
+<359:3>: {prog.MythicLevel}
+<360:1>>
+<362:1>This directly changes your mythic level but will not adjust any features associated with your character. To do a normal mythic level up use +1 my above
+<366:1>Experience
+<368:1>{prog.MythicExperience}
+<370:1>Set
+<374:1>This sets your mythic experience to match the current value of mythic level. Note that mythic experience is 1 point per level
+<398:1><
+<400:1>level
+<400:3>: {cd.Level}
+<402:1>>
+<409:1>gestalt
+<424:1>this flag lets you not count this class in computing character level
+<439:1>Alignment
+<440:1>{alignment.Name()}
+<450:1>Alignment Lock
+<451:1>{alignmentMask.ToString()}
+<452:1>Experimental - this sets a mask on your alignment shifts. {
+<452:3>.bold().orange()}{
+<452:5>.orange()}
+<467:1>Size
+<469:1>{size}
+<480:1>Reset
+<485:1>Gender
+<490:1>Female
+<490:3>Male
+<491:1>♀
+<492:1>♂
+<497:1>Changing your gender may cause visual glitches
+<508:1>{ch.CharacterName}-{statType}
+<511:1>BaseAttackBonus
+<511:3>SkillAthletics
+<511:5>HitPoints
+<518:1> < 
+<523:1>{modifiableValue.BaseValue}
+<524:1> > 
+<551:1>{name} ({spellbooks.ElementAt(i).CasterLevel})
+<557:1>Edit
+<561:1>Merge Mythic
+<563:1>When you get standalone mythic spellbooks you can merge them here.
+<566:1>Merge Mythic:
+<574:1>Merging your mythic spellbook will cause you to transfer all mythic spells to your normal spellbook and gain caster levels equal to your mythic level. You will then be able to re-select spells on next level up or mythic level up. Merging a second mythic spellbook will transfer the spells but not increase your caster level further.  If you want more CL then increase it below.
+<575:1>Warning: This is irreversible. Please save before continuing!
+<590:1>Spells known
+<595:1>L{lvl}
+<595:3>L{lvl}
+<597:1> ({knownCount})
+<597:3>
+<604:1>-1 CL
+<607:1>+1 CL
+<611:1>Clear Opposition Schools
+<618:1>Clear Opposition Descriptors
+<644:1>{recruitableCount} character(s) can be 
+<644:3> Recruited
+<644:5>. This allows you to add non party NPCs to your party as if they were mercenaries
+<647:1>{respecableCount} character(s)  can be 
+<647:3>Respecced
+<647:5>. Pressing Respec will close the mod window and take you to character level up
+<648:1>WARNING
+<648:3> The Respec UI is 
+<648:5>Non Interruptable
+<648:7> please save before using
+<651:1>WARNING
+<651:3> these features are 
+<651:5>EXPERIMENTAL
+<651:7> and uses unreleased and likely buggy code.
+<652:1>BACK UP
+<652:3> before playing with this feature.You will lose your mythic ranks but you can restore them in this Party Editor.

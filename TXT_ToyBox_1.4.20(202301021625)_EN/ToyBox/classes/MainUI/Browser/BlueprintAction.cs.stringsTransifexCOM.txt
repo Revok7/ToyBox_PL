@@ -1,0 +1,49 @@
+<123:1>Add
+<126:1>Remove
+<130:1>Spawn
+<134:1>Add
+<138:1>Remove
+<141:1><
+<148:1>>
+<155:1>Add
+<165:1>Remove
+<178:1>Add
+<196:1>Rem. All
+<233:1>Add
+<237:1>Remove
+<242:1>Add
+<246:1>Remove
+<252:1>Add
+<256:1>Remove
+<260:1>>
+<277:1>Add
+<281:1>Remove
+<285:1><
+<293:1>>
+<302:1>Add
+<306:1>At Will
+<310:1>Remove
+<315:1>Add
+<319:1>Remove
+<327:1>Add
+<331:1>Remove
+<336:1>Start
+<340:1>Complete
+<348:1>Start
+<352:1>Complete
+<357:1>Start
+<360:1>Unstart
+<363:1>Complete
+<368:1>Unlock
+<372:1>Lock
+<376:1>>
+<380:1><
+<385:1>Play
+<400:1>Teleport
+<401:1>Teleport
+<402:1>Teleport
+<403:1>Teleport
+<406:1>Create Friendly
+<409:1>Create Hostile
+<414:1>Add
+<419:1>Remove

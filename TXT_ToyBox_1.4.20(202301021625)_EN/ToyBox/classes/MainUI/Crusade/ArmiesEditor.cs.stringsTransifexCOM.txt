@@ -1,0 +1,61 @@
+<28:1>
+<67:1>You must unlock the crusade before you can access these toys.
+<71:1>Tweaks
+<72:1>Infinite Mercenary Rerolls
+<74:1>Experimental - Enable Large Player Armies
+<84:1>Recruitment Cost
+<84:3>
+<85:1>Number of Recruits
+<85:3>
+<87:1>Army Experience Multiplier
+<87:3>
+<89:1>After Army Battle Raise Multiplier
+<90:1>
+<91:1>Player Leader Ability Strength
+<91:3>
+<92:1>Enemy Leader Ability Strength
+<92:3>
+<99:1>Player Armies
+<103:1>Demon Armies
+<111:1>Name
+<112:1>Type
+<113:1>Leader
+<114:1>Squad Count
+<116:1>Location
+<118:1>Dist
+<148:1>Squads
+<154:1>traveling on a path
+<157:1>{distance:0.#}
+<157:3>-
+<160:1>Teleport
+<163:1>Summon
+<167:1>Full MP
+<173:1>Destroy
+<187:1>Stats
+<188:1>Level
+<190:1>Attack Bonus
+<191:1>Defense Bonus
+<192:1>Infirmary Size
+<193:1>Max Mana
+<194:1>Mana Regen
+<195:1>Spell Strength
+<200:1>Skills
+<201:1>Show All
+<205:1>Action
+<209:1>Search
+<230:1>Remove
+<232:1>Add
+<243:1>Rituals
+<244:1>Show All
+<248:1>Action
+<264:1>Remove
+<266:1>Add
+<283:1>Squad Name
+<285:1>Unit Count
+<303:1>Remove
+<308:1>Player Armies
+<309:1>Add Squads
+<323:1>Unit Count
+<331:1>Add
+<341:1>Add
+<424:1>traveling on a path

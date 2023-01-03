@@ -1,0 +1,10 @@
+<20:1>You must unlock the crusade before you can access these toys.
+<23:1>Settlements
+<27:1>None
+<27:3> - please progress further into the game
+<28:1>Ignore building restrions
+<31:1>Ignore player class restrictions
+<32:1>Ignore building adjacency restrictions
+<46:1>Buildings: {buildings.Count()}
+<55:1>Finish
+<61:1>\n
